@@ -89,7 +89,7 @@ const evosshin = {
 
 <div align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/DazelXv">
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -118,7 +118,7 @@ const evosshin = {
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DazelXv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -128,7 +128,7 @@ const evosshin = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DazelXv&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
