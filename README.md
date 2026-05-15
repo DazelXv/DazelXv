@@ -84,15 +84,6 @@ const evosshin = {
 
 ---
 
-# 🧠 Most Used Languages
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DazelXv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
