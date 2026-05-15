@@ -99,7 +99,7 @@ const evosshin = {
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31xxxxxxxx&cover_image=true&theme=default"/>
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312v7d73gzp75chfhx2czbexlwpm&cover_image=true&theme=default"/>
 
 </div>
 
