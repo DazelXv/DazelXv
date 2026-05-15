@@ -1,67 +1,42 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/W4jvhR3z/p-cture-zell.png" width="180" style="border-radius:999px;" />
+<img src="https://i.postimg.cc/W4jvhR3z/p-cture-zell.png" width="140"/>
 
-#  DAZEL 
+# DAZEL
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=JavaScript+Developer;WhatsApp+Bot+Developer;NodeJS+Learner;Open+Source+Enthusiast" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00D9FF&center=true&vCenter=true&lines=JavaScript+Developer;WhatsApp+Bot+Developer;NodeJS+Learner" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=DazelXv&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
-
 </div>
 
 ---
 
-# 🌌 About Me
+## About Me
 
-```js
-const evosshin = {
-  name: "Evos Shin",
-  location: "Indonesia",
-  learning: ["JavaScript", "NodeJS", "API"],
-  hobbies: ["Coding", "Technology", "Open Source"],
-  currentProject: "WhatsApp Bot"
-}
-```
-
-- 🚀 Beginner Developer
-- 🤖 WhatsApp Bot Creator
-- 🌱 Learning Backend & API
-- ⚡ Love Aesthetic UI
+- Beginner Developer
+- WhatsApp Bot Creator
+- Learning JavaScript & NodeJS
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,vscode,npm&theme=dark" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github,vscode" />
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DazelXv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DazelXv&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DazelXv&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DazelXv&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/DazelXv">
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
+</div></a>
 
 <a href="https://instagram.com/USERNAME">
   <img src="https://skillicons.dev/icons?i=instagram"/>
