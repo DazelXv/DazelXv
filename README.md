@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=JavaScript+Developer;WhatsApp+Bot+Developer;NodeJS+Learner;Open+Source+Enthusiast" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=DazelXv&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
 
 </div>
 
