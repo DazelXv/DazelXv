@@ -55,36 +55,6 @@ const evosshin = {
 
 ---
 
-# 🧠 Most Used Languages
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DazelXv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DazelXv&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
