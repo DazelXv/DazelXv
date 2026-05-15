@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=JavaScript+Developer;WhatsApp+Bot+Developer;NodeJS+Learner;Open+Source+Enthusiast" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Dazel Xv&label=Profile+Views&color=00d9ff&style=for-the-badge"/>
+<img src="https://i.postimg.cc/W4jvhR3z/p-cture-zell.png"/>
 
 </div>
 
@@ -15,7 +15,7 @@
 # 💫 About Me
 
 ```js
-const evosshin = {
+const zell = {
   location: "Indonesia",
   learning: ["JavaScript", "NodeJS", "API"],
   hobbies: ["Coding", "Open Source", "Technology"],
@@ -96,11 +96,11 @@ const evosshin = {
 
 <div align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/DazelXv">
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://instagram.com/USERNAME">
+<a href="https://instagram.com/">
   <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
