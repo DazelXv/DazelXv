@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/W4jvhR3z/p-cture-zell.png" width="140"/>
+<img src="https://i.postimg.cc/W4jvhR3z/p-cture-zell.png" width="550"/>
 
 # DAZEL
 
